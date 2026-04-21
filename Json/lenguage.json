@@ -1,0 +1,123 @@
+{
+  "es": {
+    "nav": {
+      "about": "Sobre mí",
+      "skills": "Skills",
+      "projects": "Proyectos",
+      "experience": "Experiencia",
+      "estudy": "Estudios",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "title": "Javier Zaforas"
+    },
+    "about": {
+      "title": "Sobre mí",
+      "p1": "Desarrollador junior con formación en DAW y DAM, orientado a la creación de soluciones eficientes y escalables. Me motiva seguir aprendiendo y mejorar continuamente en entornos de desarrollo reales.",
+      "p2": "Tengo experiencia en proyectos académicos relacionados con desarrollo web, automatización y trabajo en equipo, además de formación complementaria en metodologías ágiles como Scrum y tecnologías del ecosistema .NET."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "projects": {
+      "title": "Proyectos",
+      "zoo_desc1": "Sistema de gestión de zoológico desarrollado con ASP.NET Core MVC (.NET 8). Permite administrar animales, empleados, alimentación, organización de ecosistemas, etc mediante CRUD.",
+      "zoo_desc2": "Proyecto enfocado en buenas prácticas como arquitectura MVC, uso de Entity Framework y separación de responsabilidades para un código limpio y mantenible.",
+      "disney_desc1": "Aplicación web desarrollada con ASP.NET Core MVC (.NET 8) y JavaScript/TypeScript que consume la Disney API.",
+      "disney_desc2": "Permite buscar personajes, listarlos de forma paginada y visualizar su detalle utilizando tanto REST API como GraphQL.",
+      "button": "Ver proyecto"
+    },
+    "experience": {
+      "title": "Experiencia",
+      "exp1_title": "Becario en LFP PERTHUS (Prácticas 2025)",
+      "exp1_desc": "Desarrollo de una aplicación interna para automatizar la gestión de datos Excel, encargándome del diseño, programación e implementación de la solución, adaptándome al entorno profesional.",
+      "exp2_title": "Becario en LA VENDITERA (Prácticas 2024)",
+      "exp2_desc": "Automatización de tareas en Google Sheets, actualización de la web en WordPress y desarrollo de soluciones digitales en colaboración con el equipo.",
+      "exp3_title": "Monitor de tiempo libre en GS SANTA MARÍA 227 (2022- actualmente)",
+      "exp3_desc": "Organización de actividades y campamentos con jóvenes, trabajando el liderazgo, trabajo en equipo, comunicación y planificación."
+    },
+    "estudy": {
+      "title": "Estudios",
+      "fp1_title": "FP2 Desarrollo de Aplicaciones Multiplataforma 2024 - 2025",
+      "fp1_desc": "Formación enfocada en el diseño, desarrollo e implementación de aplicaciones web, abarcando tanto el desarrollo frontend como backend, bases de datos y despliegue de aplicaciones.",
+      "fp2_title": "FP2 Desarrollo de Aplicaciones Web 2022 - 2024",
+      "fp2_desc": "Formación centrada en el desarrollo de aplicaciones para distintos entornos (desktop y móvil), incluyendo programación orientada a objetos, acceso a datos, interfaces de usuario y desarrollo de software en entornos empresariales.",
+      "course_title": "Curso intensivo de desarrollo en .NET 2026",
+      "course_desc": "Actualmente ampliando conocimientos en el desarrollo de aplicaciones con .NET, enfocándome en mejorar mis habilidades en backend, arquitectura de software y buenas prácticas de desarrollo.",
+      "extra_title": "Formació Complementaria",
+      "scrum_title": "Desarrollo de Software con metodologías ágiles Scrum. 2025 (100h)",
+      "scrum_desc": "Formación en gestión de proyectos y desarrollo ágil con Scrum.",
+      "director_title": "Director de Actividades en el Tiempo Libre. 2024 - 2025",
+      "director_desc": "Planificación y coordinación de actividades socioeducativas.",
+      "monitor_title": "Monitor de Tiempo libre 2022 - 2023",
+      "monitor_desc": "Dinamización y acompañamiento de actividades recreativas."
+    },
+    "contact": {
+      "title": "Contacto"
+    },
+    "footer": {
+      "text": "© 2026 Javier Zaforas Vives"
+    }
+  },
+
+  "en": {
+    "nav": {
+      "about": "About me",
+      "skills": "Skills",
+      "projects": "Projects",
+      "experience": "Experience",
+      "estudy": "Studies",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Javier Zaforas"
+    },
+    "about": {
+      "title": "About me",
+      "p1": "Junior developer with training in DAW and DAM, focused on building efficient and scalable solutions. I am motivated to keep learning and improving in real development environments.",
+      "p2": "I have experience in academic projects related to web development, automation and teamwork, as well as additional training in agile methodologies like Scrum and .NET ecosystem technologies."
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "projects": {
+      "title": "Projects",
+      "zoo_desc1": "Zoo management system developed with ASP.NET Core MVC (.NET 8). It allows managing animals, employees, feeding, ecosystem organization, etc. through CRUD operations.",
+      "zoo_desc2": "Project focused on best practices such as MVC architecture, Entity Framework usage and separation of concerns for clean and maintainable code.",
+      "disney_desc1": "Web application developed with ASP.NET Core MVC (.NET 8) and JavaScript/TypeScript that consumes the Disney API.",
+      "disney_desc2": "Allows searching characters, paginated listing and viewing details using both REST API and GraphQL.",
+      "button": "View project"
+    },
+    "experience": {
+      "title": "Experience",
+      "exp1_title": "Intern at LFP PERTHUS (2025 internship)",
+      "exp1_desc": "Development of an internal application to automate Excel data management, handling design, programming and implementation of the solution in a professional environment.",
+      "exp2_title": "Intern at LA VENDITERA (2024 internship)",
+      "exp2_desc": "Automation of tasks in Google Sheets, website updates in WordPress and development of digital solutions in collaboration with the team.",
+      "exp3_title": "Youth activity monitor at GS SANTA MARÍA 227 (2022 - present)",
+      "exp3_desc": "Organization of activities and camps with young people, developing leadership, teamwork, communication and planning skills."
+    },
+    "estudy": {
+      "title": "Education",
+      "fp1_title": "Higher Technician in Multiplatform Application Development 2024 - 2025",
+      "fp1_desc": "Training focused on design, development and implementation of web applications, covering both frontend and backend, databases and deployment.",
+      "fp2_title": "Higher Technician in Web Application Development 2022 - 2024",
+      "fp2_desc": "Training focused on developing applications for different environments (desktop and mobile), including OOP, data access, UI and enterprise software development.",
+      "course_title": ".NET development intensive course 2026",
+      "course_desc": "Currently expanding knowledge in .NET application development, focusing on backend, software architecture and best practices.",
+      "extra_title": "Additional Training",
+      "scrum_title": "Agile Software Development with Scrum. 2025 (100h)",
+      "scrum_desc": "Training in project management and agile development with Scrum.",
+      "director_title": "Youth Activity Director. 2024 - 2025",
+      "director_desc": "Planning and coordination of socio-educational activities.",
+      "monitor_title": "Youth Activity Monitor 2022 - 2023",
+      "monitor_desc": "Facilitation and support of recreational activities."
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "footer": {
+      "text": "© 2026 Javier Zaforas Vives"
+    }
+  }
+}
