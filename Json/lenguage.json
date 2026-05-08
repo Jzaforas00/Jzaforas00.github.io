@@ -25,6 +25,8 @@
       "zoo_desc2": "Proyecto enfocado en buenas prácticas como arquitectura MVC, uso de Entity Framework y separación de responsabilidades para un código limpio y mantenible.",
       "disney_desc1": "Aplicación web desarrollada con ASP.NET Core MVC (.NET 8) y JavaScript/TypeScript que consume la Disney API.",
       "disney_desc2": "Permite buscar personajes, listarlos de forma paginada y visualizar su detalle utilizando tanto REST API como GraphQL.",
+      "lunar_desc1": "Aplicación web desarrollada con Angular para la gestión de minerales lunares recogidos por un astronauta.",
+      "lunar_desc2": "Incluye reglas de validación, dos modos de entrada y distintos formatos de salida (europeo y americano).",
       "button": "Ver proyecto"
     },
     "experience": {
@@ -86,6 +88,8 @@
       "zoo_desc2": "Project focused on best practices such as MVC architecture, Entity Framework usage and separation of concerns for clean and maintainable code.",
       "disney_desc1": "Web application developed with ASP.NET Core MVC (.NET 8) and JavaScript/TypeScript that consumes the Disney API.",
       "disney_desc2": "Allows searching characters, paginated listing and viewing details using both REST API and GraphQL.",
+      "lunar_desc1": "Angular web application for managing lunar minerals collected by an astronaut.",
+      "lunar_desc2": "Includes validation rules, dual input modes, and different output formats (European and American).",
       "button": "View project"
     },
     "experience": {
